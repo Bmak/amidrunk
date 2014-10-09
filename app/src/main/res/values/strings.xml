@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Am I drunk?</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_main">Am I drunk</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">AM I\nDRUNK?</string>
+    <string name="title_font">fonts/brlnsr.ttf</string>
+    <string name="title_activity_drunk">DrunkActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
